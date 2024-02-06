@@ -2,7 +2,7 @@
 All rights reserved.
 '''
 
-from whosgone.core.output import OutputBase
+from unfollowed.core.output import OutputBase
 
 class TextOutput(OutputBase):
     def __init__(self, followers, following):
