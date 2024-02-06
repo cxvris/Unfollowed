@@ -1,6 +1,6 @@
-from whosgone.utils import IGExtractor
-from whosgone.core.output import TextOutput, HTMLOutput
-from whosgone.core import settings
+from unfollowed.utils import IGExtractor
+from unfollowed.core.output import TextOutput, HTMLOutput
+from unfollowed.core import settings
 import os
 
 if __name__ == "__main__":
